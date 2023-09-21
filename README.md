@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrAbhay10100
 - 👀 I’m interested in Software Engineering & Remote work
-- 🌱 I’m currently learning Java Full Stack & DSA in Java
-- 💞️ I’m looking to collaborate on Java based Projects
+- 🌱 I’m currently learning Java Full Stack & DSA with Java
+- 💞️ I’m looking to collaborate on Java, Python, JavaScript based Projects
 - 📫 How to reach me justcsstudent@gmail.com
 
 <!---
